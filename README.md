@@ -17,8 +17,6 @@ coco-admin-tools/
 │   └── Event Scheduler.ods         # OpenDocument Spreadsheet file for event scheduling
 ├── device
 │   └── export-drivers.ps1          # PowerShell script to export device drivers
-├── office
-│   └── setup.bat                   # Batch script to set up Microsoft Office suite
 ├── LICENSE                         # The license file for this repository
 └── README.md                       # This file
 ```
